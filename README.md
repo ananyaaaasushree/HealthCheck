@@ -159,32 +159,5 @@ You should navigate to your forked repository, and press the "Compare & pull req
 
 GitHub will alert you that you can merge the two branches because there is no competing code. You should add in a title, a comment, and then press the “Create pull request” button.
 
-## ⚙ Contributing Guidelines
-Please go through the Contributing guidelines <a href="https://github.com/kritikaparmar-programmer/HealthCheck/blob/main/CONTRIBUTING.md">here</a>.
-## 📖 Code Of Conduct
-You can find the Code of Conduct <a href="https://github.com/kritikaparmar-programmer/HealthCheck/blob/main/CODE_OF_CONDUCT.md">here</a>.
-
-
-## 📜 LICENSE
-
-[![GitHub license](https://img.shields.io/github/license/kritikaparmar-programmer/HealthCheck?logo=github)](https://github.com/kritikaparmar-programmer/HealthCheck/blob/main/LICENSE)
-
-### Credit goes to these people: ✨
-
-<table>
-	<tr>
-		<td>
-			<a href="https://github.com/kritikaparmar-programmer/HealthCheck/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=kritikaparmar-programmer/HealthCheck" />
-</a>
-		</td>
-	</tr>
-</table>
-
-## Open Source Programs the project has been associated with
-[![GSSOC](https://gssoc.girlscript.tech/images/favicon/favicon.png)](https://gssoc.girlscript.tech/)
-
-
-## Drop an ⭐ on the Github Repository if you like it.<br><br>
 
 
